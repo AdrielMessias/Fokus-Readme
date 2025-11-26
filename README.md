@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="![Uploading Icon_Fokus.png.png…]()
+" alt="Logo do Fokus" width="120"/>
+</p>
 
 # 🧠 Fokus – Aplicativo de Hábitos
 
