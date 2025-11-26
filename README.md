@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="![Uploading Icon_Fokus.png.png…]()
-" alt="Logo do Fokus" width="120"/>
+  <img src="https://github.com/AdrielMessias/Fokus-Readme/blob/main/icon.png?raw=true" alt="Logo do Fokus" width="120"/>
 </p>
 
 # 🧠 Fokus – Aplicativo de Hábitos
