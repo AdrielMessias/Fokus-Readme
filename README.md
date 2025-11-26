@@ -1,4 +1,4 @@
-<img src="https://github.com/AdrielMessias/Fokus-Readme/blob/main/Icon_Fokus.png?raw=true" alt="Logo do Fokus" width="68">
+<img src="https://github.com/AdrielMessias/Fokus-Readme/blob/main/Icon_Fokus.png?raw=true" alt="Logo do Fokus" width="75">
 
 
 
