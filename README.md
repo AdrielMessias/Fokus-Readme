@@ -2,6 +2,13 @@
   <img src="https://github.com/AdrielMessias/Fokus-Readme/blob/main/icon.png?raw=true" alt="Logo do Fokus" width="120"/>
 </p>
 
+
+
+
+
+
+
+
 # 🧠 Fokus – Aplicativo de Hábitos
 
 Um aplicativo completo desenvolvido em **Flutter** para ajudar você a criar, acompanhar e manter hábitos de forma simples, organizada e eficiente.
