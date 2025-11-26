@@ -1,5 +1,4 @@
-![Logo do Fokus](https://github.com/AdrielMessias/Fokus-Readme/blob/main/Icon_Fokus.png?raw=true)
-
+<img src="https://github.com/AdrielMessias/Fokus-Readme/blob/main/Icon_Fokus.png?raw=true" alt="Logo do Fokus" width="64">
 
 
 
