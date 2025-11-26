@@ -1,4 +1,4 @@
-![Logo do Fokus](https://github.com/AdrielMessias/Fokus-Readme/blob/main/icon.png?raw=true)
+![Logo do Fokus](https://github.com/AdrielMessias/Fokus-Readme/blob/main/Icon_Fokus.png?raw=true)
 
 
 
