@@ -63,7 +63,6 @@ Clique para baixar a versão mais recente:
 
 ## 📸 Screenshots
 
-Fokus.png.jpg
 
 ---
 
