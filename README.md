@@ -64,6 +64,7 @@ Clique para baixar a versão mais recente:
 ## 📸 Screenshots
 
 <p align="center">
+  <img src="https://github.com/AdrielMessias/Fokus-Readme/blob/main/Fokus%20principal.jpg?raw=true" width="200" hspace="15">
   <img src="https://github.com/AdrielMessias/Fokus-Readme/blob/main/Fokus%20(1).jpg?raw=true" width="200" hspace="15">
   <img src="https://github.com/AdrielMessias/Fokus-Readme/blob/main/Fokus%20(2).jpg?raw=true" width="200" hspace="15">
   <img src="https://github.com/AdrielMessias/Fokus-Readme/blob/main/Fokus%20(3).jpg?raw=true" width="200" hspace="15">
